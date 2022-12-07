@@ -1,16 +1,25 @@
-# parallax_scroll
+# Parallax Scroll
 
-A new Flutter project.
+Simple app built with Flutter to showcase a parallax scrolling effect with blendmask and flutter_animate.
 
-## Getting Started
+Try out the demo here
+[Link to Demo](https://emmanueljoshua.github.io/parallax_scroll/)
 
-This project is a starting point for a Flutter application.
+Check out the Figma design [Link to UI](<https://www.figma.com/file/MyFQlFxiOWRAbyFVhJW3TZ/Parallax-Background-Scrolling-Animation-(Community)?node-id=27%3A14>)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/screenshots/demo.gif"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💻 Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- Some knowledge of Dart and Flutter
+
+## 🤓 Author(s)
+
+**Joshua Emmanuel**
+[![Twitter Follow](https://img.shields.io/twitter/follow/_emmanueljoshua.svg?style=social)](https://twitter.com/josh.rune)
+
+## 🔖 LICENCE
+
+[Apache-2.0](https://github.com/JideGuru/flutter-tic-tac-toe/blob/master/LICENSE)
