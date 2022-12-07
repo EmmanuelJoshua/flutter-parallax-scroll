@@ -7,7 +7,7 @@ Try out the demo here
 
 Check out the Figma design [Link to UI](<https://www.figma.com/file/MyFQlFxiOWRAbyFVhJW3TZ/Parallax-Background-Scrolling-Animation-(Community)?node-id=27%3A14>)
 
-<img src="assets/screenshots/demo.gif"/>
+<img src="assets/screenshots/demo.gif"  width="250"/>
 
 ## 💻 Requirements
 
